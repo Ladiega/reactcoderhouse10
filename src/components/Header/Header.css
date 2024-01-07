@@ -1,0 +1,17 @@
+.Header {
+
+	min-height: 20vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	gap: 2rem;
+	align-items: center;
+	background-color: black;
+	color: white;
+	width: 100%;
+}
+
+.Header h2 {
+	font-family: 'Courier New', Courier, monospace;
+	padding: 2rem;
+}
